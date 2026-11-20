@@ -42,7 +42,7 @@ I am a **Computer Engineering undergraduate at Vishwakarma Institute of Technolo
 
 ### 🌟 Featured Projects
 
-#### 1. 🛡️ [Guardian AI — Real-Time Multilingual Fraud Detection System](https://github.com/desavalearya)
+#### 1. 🛡️ [Guardian AI — Real-Time Multilingual Fraud Detection System](https://github.com/desavalearya/GUARDIAN_AI_Final)
 * **Architecture:** Enterprise-grade fraud detection engine built with **FastAPI**, **PostgreSQL / pgvector**, **Redis**, **Celery**, and **AES-256 / JWT** encryption.
 * **Capabilities:** Cross-platform deployment via **Docker** with **React** and **Flutter** front-ends; integrates a custom SMTP server and Chrome extension for automated cross-channel phishing and scam prevention.
 
