@@ -46,7 +46,7 @@ I am a **Computer Engineering undergraduate at Vishwakarma Institute of Technolo
 * **Architecture:** Enterprise-grade fraud detection engine built with **FastAPI**, **PostgreSQL / pgvector**, **Redis**, **Celery**, and **AES-256 / JWT** encryption.
 * **Capabilities:** Cross-platform deployment via **Docker** with **React** and **Flutter** front-ends; integrates a custom SMTP server and Chrome extension for automated cross-channel phishing and scam prevention.
 
-#### 2. 🧠 [MindCare — AI-Powered Digital Mental Health & Psychological Support Platform](https://github.com/desavalearya/mind_care)
+#### 2. 🧠 [MindCare — AI-Powered Digital Mental Health & Psychological Support Platform](https://github.com/desavalearya/MindCare)
 * **Architecture:** Empathetic AI counseling chatbot leveraging **DistilBERT**, **RoBERTa**, **GoEmotions**, and **Gemini AI** to detect distress markers across both speech and text modalities.
 * **Full-Stack:** **FastAPI REST API**, **React + TypeScript**, **Firebase**, with real-time counselor hand-off over **WebSockets** and automated mood tracking analytics.
 
